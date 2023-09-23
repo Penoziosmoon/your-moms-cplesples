@@ -1,5 +1,5 @@
 #include iostream 
 
 int main(void) {
-  std::cout << "LEARN CPLES PLES AND PIETOON NOW!!";
+  std::cout << "SUKA BYLAD NAXUY";
 }
